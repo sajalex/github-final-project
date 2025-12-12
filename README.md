@@ -1,14 +1,28 @@
 # Simple Interest Calculator
 
-This project provides a simple script to calculate **Simple Interest** based on the formula:
+This project calculates Simple Interest based on user inputs: Principal, Rate of Interest, and Time. It helps understand basic financial calculations.
 
-**Simple Interest = (Principal × Rate × Time) / 100**
+## Features
+- Accepts Principal, Rate, and Time as input
+- Calculates Simple Interest using the formula: SI = (Principal * Rate * Time) / 100
+- Displays the result clearly
 
-### Usage Example
-Run the script with the following inputs:
-- Principal amount
-- Rate of interest
-- Time period (in years)
+## Installation
+1. Clone the repository:
+   git clone https://github.com/sajalex/github-final-project.git
+2. Navigate to the project folder:
+   cd github-final-project
+3. Run the program:
+   python simple_interest.py
 
-Example:
+## Usage
+Enter Principal: 1000
+Enter Rate: 5
+Enter Time: 2
+Output: Simple Interest = 100.0
 
+## Technologies Used
+- Python 3
+
+## License
+This project is licensed under the MIT License.
